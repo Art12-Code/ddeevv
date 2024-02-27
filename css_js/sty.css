@@ -1,0 +1,41 @@
+
+    body {
+        overflow: hidden;
+        margin:0;
+    }
+    
+      .uix {
+      display: flex;
+      justify-content: center;
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: auto;
+      background-color: #333;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+    
+    .lix {
+      float: left;
+    }
+    
+    .lix button {
+      width: auto;
+      display: block;
+      color: rgb(0, 0, 0);
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+    
+    .lix button:hover:not(.active) {
+      background-color: #ffffff;
+    }
+    
+    .active {
+        /* on click change class to active js*/
+      background-color: #04AA6D;
+    }
+    

@@ -1,0 +1,20 @@
+> open load logo
+> check session & cookies if yes auto login if no step 3
+>login / reg
+> email verification ***
+> profile
+
+> a7x page
+> mchop page
+> branding page
+> Aimoner - all need db
+
+>logout
+> read notification ****
+> chage password
+> 
+> ai chat ****
+
+
+
+>> android app to sniff all notification
