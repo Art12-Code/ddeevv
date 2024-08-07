@@ -60,6 +60,8 @@
     "gdpr": false,
     "uniqCompNum": 59,
     "versionPublish": "5.9.18",
+    "publishType": "local",
+    "publishPath": "file:///Users/a7x/Desktop/APDC/b",
     "screenshot": "screenshot.png"
   },
   "pages": {
